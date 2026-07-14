@@ -13,10 +13,10 @@
     <a href="https://github.com/DewniV">
       <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/naveen-wickramasinghe-507a15297/">
+    <a href="https://www.linkedin.com/in/dewni-vitharana-b0350b297/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:.com">
+    <a href="mailto:dewnivitharana68@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
@@ -31,7 +31,7 @@
     <li>💻 I’m working on <b>Full Stack Web Development</b> projects.</li>
     <li>🚀 I’m currently learning <b>Advanced React Patterns</b> and <b>Cloud Architecture</b>.</li>
     <li>💬 Ask me about <b>Java, Angular, or Node.js</b>.</li>
-    <li>📫 How to reach me: <b>naveendilhanwic@gmail.com</b></li>
+    <li>📫 How to reach me: <b>dewnivitharana68@gmail.com</b></li>
 </ul>
 
 <hr/>
@@ -52,21 +52,3 @@
 
 <hr/>
 
-<h3>📊 GitHub Stats</h3>
-
-<div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical&count_private=true" alt="Naveen's Stats" height="180"/>
-    
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenDilhan&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NaveenDilhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
